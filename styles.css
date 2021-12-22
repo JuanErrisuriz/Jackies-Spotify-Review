@@ -1,0 +1,24 @@
+div{ border: solid;
+ padding: 5px;
+margin: 20px;
+color:orange;
+font-family:sans-serif
+}
+body{
+    background-image: linear-gradient(to bottom right,blue, red)
+}
+p{
+    color:orange;
+    font-family:sans-serif;
+}
+h1{
+    color:orange;
+    font-family:sans-serif;
+}
+h3{
+    color:orange;
+    font-family: sans-serif;
+}
+
+hr {  color:orange;
+}
