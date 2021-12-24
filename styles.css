@@ -5,7 +5,7 @@ color:orange;
 font-family:sans-serif
 }
 body{
-    background-image: linear-gradient(to bottom right,blue, red)
+    background-image: linear-gradient(to bottom right,blue,purple, red )
 }
 p{
     color:orange;
